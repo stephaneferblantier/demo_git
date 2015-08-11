@@ -3,5 +3,5 @@ une demo de git de stef qui se passe bien et qui a été modifié 1 fois.
 
 Et maintenant on modifie depuis Github!
 
-Mai aussi.
+Mais aussi.
 
